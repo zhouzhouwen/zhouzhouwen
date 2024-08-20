@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**zhouzhouwen/zhouzhouwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Wen ZHOU! 😊 ⭐ 🔥
 
-Here are some ideas to get you started:
+## Research Interests:
+My research interests involve the application of artificial intelligence technologies in fluid mechanics, two-phase flow, thermal hydraulics, and nuclear engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Goals:
+My goal is to utilize artificial intelligence technologies to advance and promote the development of fluid mechanics, two-phase flow, thermal hydraulics, and nuclear engineering, thereby enhancing the research efficiency and productivity of others.
+
+## Research project:
+| Highlight | Title | Paper link |Code|Dataset|
+|-----------| ----------- |----------- |----------- |----------- |
+| Fig.1     | Title       | Title       | Title       | Title       |
+| Fig.2     | Title        | Title       | Title       | Title       |
