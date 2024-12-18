@@ -1,12 +1,13 @@
 # Hey, I'm Wen ZHOU! 😊 ⭐ 🔥
 
 ## Research Interests:
-My research interests involve the application of artificial intelligence technologies in fluid mechanics, two-phase flow, thermal hydraulics, and nuclear engineering, including data drive AI, Physical informed AI, Generative AI and so on.
+My research interests involve the advancement and development of artificial intelligence in fluid mechanics, two-phase flow, thermal hydraulic and nuclear engineering, including Data-Drive AI, Physical informed AI, Generative AI and so on.
+Please feel free to contact me anytime and anywhere if you have any questions or collaboration interests, via email at [philzhouwen@gmail.com]
 
 ## Research Goals:
 My goal is to utilize artificial intelligence technologies to advance and promote the development of fluid mechanics, two-phase flow, thermal hydraulics, and nuclear engineering, thereby enhancing the research efficiency and productivity of others.
 
-## Research project (only first or corresponding author):
+## Research Project (only first or corresponding author):
 | Number | Category            | Content                                      | Paper Title                                               | Publication journal and time                                  | Code                                                      | Dataset                                             |
 |--------|----------------------|----------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|
 | 1      | Generative AI       | Bubbly flow images generation by GAN         | BF-GAN: Development of an AI-driven Bubbly Flow Image Generation Model Using Generative Adversarial Network | Energy (under review), 2024                                   | [GitHub](https://github.com/zhouzhouwen/BF-GAN)           | [Mendeley Data](https://data.mendeley.com/datasets/gtbcrhdnrh/1) |
@@ -21,3 +22,11 @@ My goal is to utilize artificial intelligence technologies to advance and promot
 | 10     | Data driven AI      | Object structure optimization by NSGA-III algorithm | An intelligent optimization method for the HCSB blanket based on an improved multi-objective NSGA-III algorithm and an adaptive BP neural network | Nuclear Engineering and Technology, 2023                     | [GitHub](https://github.com/zhouzhouwen/An-AI-method-for-the-HCSB-blanket-based-on-an-improved-NSGA-III-and-an-adaptive-BPNN) |                                                     |
 | 11     | Data driven AI      | Object structure optimization by DE algorithm | An adaptive DE algorithm and its preliminary application in intelligent design of space reactor | Nuclear Techniques, 2021                                      |                                                           |                                                     |
 | 12     | Data driven AI      | Radiation field reconstruction by BPNN       | BP neural network based reconstruction method for radiation field applications | Nuclear Engineering and Design, 2021                        | [GitHub](https://github.com/zhouzhouwen/BP-neural-network-based-reconstruction-method-for-radiation-field-applications) |                                                     |
+
+## Intern Project & Experience
+
+| Role                              | Company / Institution           | Duration                  | Responsibilities / Achievements                                                                                                                                                       |
+|-----------------------------------|---------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Intern Project| Tokyo                           | [Year] (Add year)          | Deployment and testing of large language models, speech-to-speech models, and digital human models in Tokyo.                                                                            |
+| Teaching Assistant| University of Tokyo             | Oct. 2023 – Jan. 2024      | Assisted the instructor in organizing materials, grading homework, communicating with students, and answering questions related to the Heat Transfer course content.                      |
+| Quantitative Trader| Guan Rui Technology Co., Hefei  | Apr. 2021 – Nov. 2021      | Used various neural network models, feature factors, trading strategies, and big data to predict stock market trends in multiple countries. Achieved an annualized yield of 180% in 2020. |
