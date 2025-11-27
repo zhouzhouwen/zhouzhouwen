@@ -1,32 +1,56 @@
-# Hey, I'm Wen ZHOU! 😊 ⭐ 🔥
+<div align="center">
+  <img src="https://ui-avatars.com/api/?name=Wen+Zhou&background=f1f5f9&color=334155&size=200&font-size=0.33&rounded=true" width="120" />
 
-## Research Interests:
-My research interests involve the advancement and development of artificial intelligence in fluid mechanics, two-phase flow, thermal hydraulic and nuclear engineering, including Data-Drive AI, Physical informed AI, Generative AI and so on.
-Please feel free to contact me anytime and anywhere if you have any questions or collaboration interests, via email at [philzhouwen@gmail.com]
+  <h1 style="border-bottom: none;">Wen ZHOU</h1>
 
-## Research Goals:
-My goal is to utilize artificial intelligence technologies to advance and promote the development of fluid mechanics, two-phase flow, thermal hydraulics, and nuclear engineering, thereby enhancing the research efficiency and productivity of others.
+  <a href="https://zhouzhouwen.github.io">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F2937&center=true&vCenter=true&width=500&lines=AI+for+Science.;AI+for+Fluid+Dynamics.;AI+for+Nuclear+Engineering.;PhD+Candidate+at+UTokyo." alt="Typing SVG" />
+  </a>
 
-## Research Project (only first or corresponding author):
-| Number | Category            | Content                                      | Paper Title                                               | Publication journal and time                                  | Code                                                      | Dataset                                             |
-|--------|----------------------|----------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------|
-| 1      | Generative AI       | Bubbly flow images generation by GAN         | BF-GAN: Development of an AI-driven Bubbly Flow Image Generation Model Using Generative Adversarial Network | Energy (under review), 2024                                   | [GitHub](https://github.com/zhouzhouwen/BF-GAN)           | [Mendeley Data](https://data.mendeley.com/datasets/gtbcrhdnrh/1) |
-| 2      | Physical informed AI| Fluid dynamics simulations by PINNs          | Advancing Fluid Dynamics Simulations: A Comprehensive Approach to Optimizing Physics-Informed Neural Networks | Physics of Fluids, 2024                                      | [GitHub](https://github.com/zhouzhouwen/An-improved-PINNs-with-the-adaptive-weight-sampling-and-DE-algorithm) | Public data                                         |
-| 3      | Physical informed AI| Fluid dynamics simulations by PINNs          | Self-Adaptive and Time Divide-and-Conquer Physics-Informed Neural Networks for Two-Phase Flow Simulations Using Interface Tracking Methods | Physics of Fluids, 2024 | [GitHub](https://github.com/zhouzhouwen/two-phase-flow-by-self_adaptive-and-time_divide_conquer-PINNs) | Public data                                         |
-| 4      | Data driven AI      | Flow regime identification                   | Development of An Industry-applicable Two-phase Flow Regime Identification Approach Using Flow-induced Vibration Acceleration Signals | Engineering Applications of Artificial Intelligence, 2023 |                                                           |                                                     |
-| 5      | Data driven AI      | Critical heat flux prediction by ANN, 1DCNN, Transformer | Assessment of the State-of-the-Art AI Methods for Critical Heat Flux Prediction | International Communications in Heat and Mass Transfer, 2023 | [GitHub](https://github.com/zhouzhouwen/cutting-edge-artificial-intelligence-methods-for-prediction-of-critical-heat-flux) |                                                     |
-| 6      | Data driven AI      | Critical heat flux prediction by ANN, 1DCNN, Transformer | Re-examining the input-parameters and AI strategies for CHF prediction | Energy (under review), 2024                                 |                                                           |                                                     |
-| 7      | Data driven AI      | Object detection and tracking by YOLO        | Bubble feature extraction in subcooled flow boiling using AI-based object detection and tracking techniques | International Journal of Heat and Mass Transfer, 2024      | [GitHub](https://github.com/zhouzhouwen/Bubble_detection_and_tracking_AI_based_YOLO_tracking_alogrithm) | [Mendeley Data](https://data.mendeley.com/datasets/p5zskggvwx/1) |
-| 8      | Data driven AI      | Object detection and tracking by YOLO        | Development of the AI-assisted Thermal Hydraulic Analysis Method for Condensing Bubbles in Vertical Subcooled Flow Boiling | International Journal of Multiphase Flow (review), 2024    | [GitHub](https://github.com/zhouzhouwen/The-Robust-Development-of-a-TH-Analysis-Method-for-Bubbles-Using-AI) | [Mendeley Data](https://data.mendeley.com/datasets/p5zskggvwx/1) |
-| 9      | Data driven AI      | Object segmentation by YOLO                  | DDevelopment of Advanced AI-Based Segmentation and Prediction Method for Air Entrainment in Plunging Water Jets | Progress in Nuclear Energy, 2024                           | [GitHub](https://github.com/zhouzhouwen/Advanced-AI-Segmentation-of-Air-Entrainment-Motion-YOLO-with-Attention-Mechanism-and-NSGA-III-BPNN) |                                                     |
-| 10     | Data driven AI      | Object structure optimization by NSGA-III algorithm | An intelligent optimization method for the HCSB blanket based on an improved multi-objective NSGA-III algorithm and an adaptive BP neural network | Nuclear Engineering and Technology, 2023                     | [GitHub](https://github.com/zhouzhouwen/An-AI-method-for-the-HCSB-blanket-based-on-an-improved-NSGA-III-and-an-adaptive-BPNN) |                                                     |
-| 11     | Data driven AI      | Object structure optimization by DE algorithm | An adaptive DE algorithm and its preliminary application in intelligent design of space reactor | Nuclear Techniques, 2021                                      |                                                           |                                                     |
-| 12     | Data driven AI      | Radiation field reconstruction by BPNN       | BP neural network based reconstruction method for radiation field applications | Nuclear Engineering and Design, 2021                        | [GitHub](https://github.com/zhouzhouwen/BP-neural-network-based-reconstruction-method-for-radiation-field-applications) |                                                     |
+  <p align="center">
+    Project Researcher at <strong>The University of Tokyo</strong>.<br>
+    Focusing on Data-Driven AI, Physics-Informed AI (PINNs), and Generative AI.
+  </p>
 
-## Intern Project & Experience
+  <a href="https://zhouzhouwen.github.io">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Interactive_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-| Role                              | Company / Institution           | Duration                  | Responsibilities / Achievements                                                                                                                                                       |
-|-----------------------------------|---------------------------------|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Intern Project| Tokyo                           | [Year] (Add year)          | Deployment and testing of large language models, speech-to-speech models, and digital human models in Tokyo.                                                                            |
-| Teaching Assistant| University of Tokyo             | Oct. 2023 – Jan. 2024      | Assisted the instructor in organizing materials, grading homework, communicating with students, and answering questions related to the Heat Transfer course content.                      |
-| Quantitative Trader| Guan Rui Technology Co., Hefei  | Apr. 2021 – Nov. 2021      | Used various neural network models, feature factors, trading strategies, and big data to predict stock market trends in multiple countries. Achieved an annualized yield of 180% in 2020. |
+<br/>
+
+### 🔬 Research Interests
+
+<div align="center">
+
+| **AI for Science** | **Two-Phase Flow** | **Nuclear Eng.** |
+| :---: | :---: | :---: |
+| ![Generative AI](https://img.shields.io/badge/Generative_AI-eff6ff?style=flat-square&labelColor=eff6ff&color=1d4ed8) | ![Interface Tracking](https://img.shields.io/badge/Interface_Tracking-ecfdf5?style=flat-square&labelColor=ecfdf5&color=15803d) | ![Safety Analysis](https://img.shields.io/badge/Safety_Analysis-f5f3ff?style=flat-square&labelColor=f5f3ff&color=6d28d9) |
+| ![PINNs](https://img.shields.io/badge/PINNs-eff6ff?style=flat-square&labelColor=eff6ff&color=1d4ed8) | ![Bubble Dynamics](https://img.shields.io/badge/Bubble_Dynamics-ecfdf5?style=flat-square&labelColor=ecfdf5&color=15803d) | ![Thermal_Hydraulics](https://img.shields.io/badge/Thermal_Hydraulics-f5f3ff?style=flat-square&labelColor=f5f3ff&color=6d28d9) |
+
+</div>
+
+<br/>
+
+### 📚 Selected Publications
+
+* **BF-GAN: AI-driven Bubbly Flow Image Generation** (Under Review, 2025)
+    <br>
+    ![Repo](https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github) ![Paper](https://img.shields.io/badge/Paper-PDF-red?style=flat-square&logo=adobeacrobatreader)
+    > *Generative AI, Fluid Dynamics, Bubbly Flow*
+
+* **AI-Assisted Thermal Hydraulic Analysis Method** (Intl. J. of Multiphase Flow, 2025)
+    <br>
+    [Click to Read](https://www.sciencedirect.com/science/article/pii/S0301932225001247)
+    > *Subcooled Flow Boiling, Object Detection*
+
+* **Advancing fluid dynamics simulations: PINNs Optimization** (Physics of Fluids, 2024)
+    <br>
+    [Click to Read](https://pubs.aip.org/aip/pof/article-abstract/36/1/013615/3023015)
+    > *PINNs, Navier-Stokes, Low Re*
+
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhouzhouwen&show_icons=true&theme=minimal&hide_border=true&bg_color=ffffff" />
+</div>
